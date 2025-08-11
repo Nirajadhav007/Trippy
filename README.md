@@ -1,2 +1,3 @@
 # Trippy
-Created with CodeSandbox
+Trip Planning Website full 
+
